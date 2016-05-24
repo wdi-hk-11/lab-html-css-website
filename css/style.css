@@ -74,20 +74,44 @@ hr {
   margin: 30px 0;
 }
 
-img {
-  /*float: right;*/
-  margin-left: 20px;
-  margin-bottom: 20px;
-  border: 1px solid #222222;
-  padding: 5px;
-  text-align: center
+div.grid-50 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
 }
 
-img[alt] {
+div.grid-50.right-side {
   float: right;
+  text-align: center;
+}
+
+div.grid-50.right-side > img {
+  border: 1px solid #222222;
+  padding: 5px;
+  box-sizing: border-box;
+  height: 300px;
+}
+
+hr.clear {
+  clear: both;
 }
 
 nav {
   color: #222222;
   text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  h3 {
+    margin-top: -20px;
+  }
+
+  div.grid-50 {
+    width: 100%;
+    height: inherit;
+  }
+
+  div.grid-50.right-side {
+    margin-bottom: 5px;
+  }
 }
