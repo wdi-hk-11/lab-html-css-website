@@ -14,6 +14,8 @@ Create two pages - an 'About Page' and a 'Portfolio' - that link to one another.
 
 #### Requirements
 
+checkout the sample-copy.txt It contains all the text in the website!!!
+
 - Link both pages together using `a` tag
 - Use a unique `title` and a single unique `h1` tag
 - Show images using `img` tags including unique `alt` attributes

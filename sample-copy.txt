@@ -19,12 +19,15 @@ Relevant Experience
 
 Web Developer, Relaxr 2015 - present
 Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.
+*image here*
 
 Web Developer, Startup Matchmaker 2015 - present
 Used a design team's wireframes to develop this company's responsive homepage.
+*image here*
 
 Web Developer, CitiPix 2015 – present
 Built web app prototype that allows users to store and quickly retrieve photos using keywords.
+*image here*
 
 
 EDUCATION
