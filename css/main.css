@@ -1,0 +1,37 @@
+body{
+	font-family: 'Special Elite', cursive;
+	background: #F5F5DC;
+	margin: 0 20% 0 20%;
+}
+
+header{
+	margin-left: 15%;
+}
+
+nav li{
+	display: inline;
+	border: 2px black solid;
+	padding: 3px;
+	box-shadow: 5px 5px 1px #888888;
+}
+
+nav li:hover{
+	background-color: black;
+}
+
+a:hover {
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+}
+
+
+img{
+	border-radius: 40px;
+	max-height: 50%;
+	max-width: 50%;
+}
