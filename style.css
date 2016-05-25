@@ -1,0 +1,84 @@
+.container {
+	max-width: 600px;
+	margin: auto;
+}
+
+.img1 {
+	
+}
+
+nav {
+    background-color:white;
+    color:blck;
+    text-align:center;
+    padding:5px;
+}
+
+}
+section {
+    width:400px;
+    padding:10px; 
+}
+
+h1 {
+	font-family: arial;
+}
+
+h2 {
+	font-family: arial;
+}
+
+ a:link {
+    font-family: arial;
+    text-decoration: none;
+    color: black;
+    }
+
+ a:visited {
+ 	font-family: arial;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    }
+
+ a:hover {
+ 	font-family: arial;
+    text-decoration: none;
+    color: black;
+    }
+
+a:active {
+	font-family: arial;
+    text-decoration: none;
+    color: black;
+    }
+
+article {
+	font-family: arial;
+      max-width: 400px;
+      padding: 10px;
+      margin: 0 auto;
+    }	
+
+.image1 {
+	max-width:25%;
+   max-height:25%;
+}
+
+.image2 {
+	max-width:100%;
+   max-height:100%;
+}
+
+.image3 {
+	max-width:100%;
+   max-height:100%;
+}
+
+.image4 {
+	max-width:100%;
+   max-height:100%
+}
+
+artilce li {
+}
