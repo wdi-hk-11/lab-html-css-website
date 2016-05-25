@@ -1,0 +1,97 @@
+body {
+	width: 100%;
+	max-width: 1300px;
+	margin: 0 auto;
+}
+header {
+	background-image: url("./images/large.jpg");
+	width: 100%;
+	margin: 0px;
+	background-size: cover;
+	background-color: rgba(0,0,0,0.7);
+	font-family: monospace;
+	background-repeat: no-repeat;
+	background-position: center center;
+	overflow: hidden;
+	opacity: .8;
+}
+article {
+	margin: 40px;
+}
+
+#menu {
+	display: inline;
+	float: right;
+	padding: 20px 0px 20px 0px;
+	margin: 5px 0px 20px 0px;
+}
+
+p.Words {
+	font-size: 20px;
+	font-family: monospace;
+	max-width: 1000px;
+}
+img.logo {
+	border-radius: 0 0 20px 0;
+}
+img.Port {
+	border-radius: 20px;
+	text-align: center center;
+	margin-left: 200px;
+}
+
+li {
+	display: inline;
+	padding: 7px 10px 7px 10px;
+	margin: 10px 5px 20px 5px;
+	border-right: 3px solid white;
+	border-radius: 20px;
+	font-size: 15px;
+	color: white;
+	background-color: rgba(50,50,50,.5);
+}
+li:hover {
+	display: inline;
+	padding: 7px 10px 7px 10px;
+	margin: 10px 5px 20px 5px;
+	border-right: 3px solid white;
+	border-radius: 20px;
+	font-size: 20px;
+	color: white;
+	background-color: rgba(0,0,0,1);
+}
+h1 {
+	margin: 400px 0 200px 0;
+	padding: 100px;
+	text-align: center;
+	top: 50%;
+	color: white;
+	font-size: 70px;
+	background-color: rgba(50,50,50,.6);
+	background-size: 50%;
+	font-family: 'Brush Script MT', cursive;
+	
+}
+p {
+	font-size: 30px;
+	font-style: oblique;
+	max-width: 1000px;
+}
+h2 {
+	font-family: monospace;
+	font-size: 50px;
+	text-align: center;
+	border: 3px solid rgba(197,178,132,.8);
+	overflow: auto;
+	padding:50px;
+	margin: 50px;
+}
+h3 {
+	font-family: monospace;
+	font-size: 30px;
+	text-align: left;
+	border: 3px solid black;
+	overflow: auto;
+	padding:20px 30px 20px 40px;
+	margin: 20px 50px 20px 20px;
+}
