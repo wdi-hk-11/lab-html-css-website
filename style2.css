@@ -1,0 +1,75 @@
+.natbar {
+
+list-style-type: none;
+text-align: center;
+
+}
+
+h4 , h2{
+
+	font-family: Georgia, Times, 'Times New Roman', serif;
+	font-size: 24px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+
+.natbar li {
+
+display: inline;
+padding: 50px;
+
+}
+
+.natbar li:hover { 
+    color: #7cbdf9;
+
+
+}
+body {
+
+
+margin: 80px;
+}
+
+.image {
+
+float: left;
+width: 600px;
+}
+
+.des {
+
+	float: right;
+	width: 800px;
+}
+html {
+  text-align: center;
+}
+
+body {
+
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+
+}
+
+footer {
+
+background-color: #FFFF99;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 35px;
+    width: 100%;
+    overflow:hidden;
+
+}
+
+footer li {
+
+	display: inline;
+padding: 50px;
+}
